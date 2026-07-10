@@ -21,8 +21,8 @@ L'objectif fondamental de cette action était de soulever un débat juridique cr
 L'impact et la visibilité de cette démarche citoyenne transparaissent jusqu'au sein des moteurs de recherche, illustrant une action publique marquante et référencée.
 
 <p align="left">
-  <img src="image/google_recours_1.jpg" width="380" alt="Indexation Google Résultat 1">
-  <img src="image/google_recours_2.jpg" width="380" alt="Indexation Google Résultat 2">
+  <img src="google_recours_1.jpg" width="380" alt="Indexation Google Résultat 1">
+  <img src="google_recours_2.jpg" width="380" alt="Indexation Google Résultat 2">
 </p>
 
 ---
@@ -31,7 +31,7 @@ L'impact et la visibilité de cette démarche citoyenne transparaissent jusqu'au
 Voici l'argumentaire initial développé pour soutenir la contrariété de la loi aux principes fondamentaux de protection de la vie humaine :
 
 <p align="center">
-  <img src="image/memoire_recours.jpg" width="550" alt="Mémoire de recours écrit">
+  <img src="memoire_recours.jpg" width="550" alt="Mémoire de recours écrit">
 </p>
 
 ---
@@ -40,9 +40,9 @@ Voici l'argumentaire initial développé pour soutenir la contrariété de la lo
 Bien que la Cour ait déclaré le recours *irrecevable* en vertu de l'autorité de la chose jugée (visant la décision de conformité antérieure DCC 21-320), cette procédure atteste d'une maîtrise concrète du contentieux constitutionnel et d'un engagement de haut niveau.
 
 <p align="left">
-  <img src="image/dcc_page1.jpg" width="250" alt="Décision Page 1">
-  <img src="image/dcc_page2.jpg" width="250" alt="Décision Page 2">
-  <img src="image/dcc_page3.jpg" width="250" alt="Décision Page 3">
+  <img src="dcc_page1.jpg" width="250" alt="Décision Page 1">
+  <img src="dcc_page2.jpg" width="250" alt="Décision Page 2">
+  <img src="dcc_page3.jpg" width="250" alt="Décision Page 3">
 </p>
 
 ---
