@@ -24,6 +24,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *   **Description :** Élaboration et dépôt d'un recours stratégique devant la haute juridiction constitutionnelle du Bénin portant sur l'analyse de la loi réglementant l'avortement.
 *   **Objectif :** Garantir et protéger de manière absolue le droit constitutionnel à la vie des nouveau-nés face aux ambiguïtés textuelles.
 *   **Status :** Soumis / Action de plaidoyer de haut niveau.
+*   **Preuves et analyse intégrale:**
+    [Découvrir le dossier complet, la publication de Google et la décision officielle DCC 25-147](./recours.md) 
 
 ###  2. Éducation Populaire : L'Association Théâtre Juridique
 *   **Rôle :** Coordonnateur Général *(depuis septembre 2025)*
