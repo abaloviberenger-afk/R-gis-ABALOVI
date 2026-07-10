@@ -21,6 +21,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 ##  Projets Majeurs & Impacts
 
 ###  1. Plaidoyer Institutionnel : Recours à la Cour Constitutionnelle
+  <img src="TTT.jpg" width="250" alt="Régis ABALOVI">
+  </p>
 *   **Description :** Élaboration et dépôt d'un recours stratégique devant la haute juridiction constitutionnelle du Bénin portant sur l'analyse de la loi réglementant l'avortement.
 *   **Objectif :** Garantir et protéger de manière absolue le droit constitutionnel à la vie des nouveau-nés face aux ambiguïtés textuelles.
 *   **Status :** Soumis / Action de plaidoyer de haut niveau.
