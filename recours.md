@@ -8,14 +8,14 @@
 
 ---
 
-## 🎯 Contexte et Objectif de la Démarche
+##  Contexte et Objectif de la Démarche
 En tant que citoyen engagé et juriste en formation, j'ai saisi la Cour Constitutionnelle d'un recours visant à contester la constitutionnalité de la loi **n°2021-12 du 20 décembre 2021** (modifiant la loi n°2003-04 relative à la santé sexuelle et à la reproduction). 
 
 L'objectif fondamental de cette action était de soulever un débat juridique crucial autour de la protection absolue du droit à la vie et du respect de la dignité humaine, en invoquant les **articles 8 et 15 de la Constitution béninoise**.
 
 ---
 
-## 📄 Preuves Officielles & Documents de Procédure
+##  Preuves Officielles & Documents de Procédure
 
 ### 1. Indexation Publique & Reconnaissance Digitale
 L'impact et la visibilité de cette démarche citoyenne transparaissent jusqu'au sein des moteurs de recherche, illustrant une action publique marquante et référencée.
