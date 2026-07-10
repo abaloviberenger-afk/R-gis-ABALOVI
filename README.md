@@ -19,18 +19,18 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 ##  Projets Majeurs & Impacts
 
 ###  1. Plaidoyer Institutionnel : Recours à la Cour Constitutionnelle
-*   **Description :** Élaboration et dépôt d'un recours stratégique devant la haute juridiction constitutionnelle du Bénin portant sur l'analyse de la loi réglementant l'avortement[cite: 3].
+*   **Description :** Élaboration et dépôt d'un recours stratégique devant la haute juridiction constitutionnelle du Bénin portant sur l'analyse de la loi réglementant l'avortement.
 *   **Objectif :** Garantir et protéger de manière absolue le droit constitutionnel à la vie des nouveau-nés face aux ambiguïtés textuelles.
 *   **Status :** Soumis / Action de plaidoyer de haut niveau.
 
 ###  2. Éducation Populaire : L'Association Théâtre Juridique
-*   **Rôle :** Coordonnateur Général *(depuis septembre 2025)*[cite: 3]
+*   **Rôle :** Coordonnateur Général *(depuis septembre 2025)*
 *   **Concept :** Tradruire la complexité du droit positif béninois en pièces théâtrales et simulations vivantes pour permettre aux populations et à la jeunesse étudiante de s'approprier et d'exercer leurs droits.
-*   **Impact :** Gestion des répétitions, coordination des représentations de sensibilisation et structuration de la visibilité pour l'intégration de nouveaux bénévoles[cite: 3].
-*   **Distinction liée :** **1er Prix** du prestigieux concours de plaidoirie *Oratio Principis* (2025)[cite: 3].
+*   **Impact :** Gestion des répétitions, coordination des représentations de sensibilisation et structuration de la visibilité pour l'intégration de nouveaux bénévoles.
+*   **Distinction liée :** **1er Prix** du prestigieux concours de plaidoirie *Oratio Principis* (2025).
 
 ###  3. Inclusion Linguistique : Agence de Traduction Juridique (En cours)
-*   **Concept :** Création d'une agence spécialisée dans la vulgarisation et la traduction systématique des textes de loi fondamentaux en langues nationales (notamment en **Fon** et **Mina**)[cite: 3].
+*   **Concept :** Création d'une agence spécialisée dans la vulgarisation et la traduction systématique des textes de loi fondamentaux en langues nationales (notamment en **Fon** et **Mina**).
 *   **Impact visé :** Éliminer la barrière linguistique pour que la justice parle la même langue que le citoyen.
 
 ###  4. Humanitaire & Équité : Projet « Na yi azɔmɛ » *(J'irai à l'école)*
@@ -44,24 +44,24 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 ---
 
 ##  Compétences clés
-*   **Plaidoyer & Droits Humains :** Rédaction de recours juridictionnels, analyse de conformité des lois[cite: 3].
-*   **Art de la parole :** Plaidoirie académique, techniques d'éloquence, vulgarisation et expression scénique[cite: 3].
-*   **Management associatif :** Leadership d'équipe, planification budgétaire, coordination logistique de projets sur le terrain[cite: 3].
-*   **Compétences Linguistiques :** Français (Très bien) | Fon (Langue maternelle, usage professionnel pour la vulgarisation) | Mina[cite: 3].
+*   **Plaidoyer & Droits Humains :** Rédaction de recours juridictionnels, analyse de conformité des lois.
+*   **Art de la parole :** Plaidoirie académique, techniques d'éloquence, vulgarisation et expression scénique.
+*   **Management associatif :** Leadership d'équipe, planification budgétaire, coordination logistique de projets sur le terrain.
+*   **Compétences Linguistiques :** Français (Très bien) | Fon (Langue maternelle, usage professionnel pour la vulgarisation) | Mina.
 
 ---
 
 ##  Distinctions & Certifications
-*    **1er Prix & Attestation de Meilleur Plaideur** — Concours de plaidoirie *Oratio Principis* (2025, GFED-SP Godomey)[cite: 3].
-*    **Attestation de formation en Rédaction de Recours** (2024, GFED-SP)[cite: 3].
-*    **Certificat de Maîtrise Informatique** (Microsoft Office, Outils collaboratifs, Réseaux sociaux)[cite: 3].
+*    **1er Prix & Attestation de Meilleur Plaideur** — Concours de plaidoirie *Oratio Principis* (2025, GFED-SP Godomey).
+*    **Attestation de formation en Rédaction de Recours** (2024, GFED-SP).
+*    **Certificat de Maîtrise Informatique** (Microsoft Office, Outils collaboratifs, Réseaux sociaux).
 
 ---
 
 ## 📬 Me contacter / Suivre mes combats
-*   📧 **Email :** abaloviberenger@gmail.com[cite: 3]
-*   📱 **Téléphone / WhatsApp :** [+229 01 59 12 54 02](tel:+2290159125402) / [+229 01 93 22 46 68](tel:+2290193224668)[cite: 3]
-*   🌐 **Facebook Pro :** [Profil Régis ABALOVI](https://www.facebook.com/profile.php?id=61578181748603)[cite: 3]
+*   📧 **Email :** abaloviberenger@gmail.com
+*   📱 **Téléphone / WhatsApp :** [+229 01 59 12 54 02](tel:+2290159125402) / [+229 01 93 22 46 68](tel:+2290193224668)
+*   🌐 **Facebook Pro :** [Profil Régis ABALOVI](https://www.facebook.com/profile.php?id=61578181748603)
 *   💼 **Dossier de Candidature :** [Télécharger mon Portfolio Complet en PDF](./portfolio_regis.pdf)
 
 ---
