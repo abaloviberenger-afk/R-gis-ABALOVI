@@ -1,7 +1,9 @@
 # ⚖️ Régis Bérenger Yao ABALOVI
 ### *Activiste Juridique | Orateur & Plaideur d'Impact | Promoteur Culturel*
 
-<p align="center">
+<p align="center"> 
+  <img src="phto_de_prl.jpg" width="250" style="border-radius: 50%;" alt="Régis ABALOVI">
+</p>  
   <img src="https://img.shields.io/badge/Focus-Droit%20%26%20Inclusion%20Sociale-1a3a5f?style=for-the-badge" alt="Focus">
   <img src="https://img.shields.io/badge/Localisation-B%C3%A9nin%20%20-228B22?style=for-the-badge" alt="Bénin">
   <img src="https://img.shields.io/badge/Comp%C3%A9tence-Plaidoyer%20%26%20Eloquence-d4af37?style=for-the-badge" alt="Compétences">
