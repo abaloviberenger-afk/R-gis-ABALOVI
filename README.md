@@ -28,7 +28,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 
 <p align="center">
   <img src="regis_transmission.jpg" width="280" alt="Régis partageant ses connaissances">
-  <img src="regis_communaute_orateurs.jpg" width="280" alt="Session d'échanges pratiques en groupe">
+  <img src="regis_communaute_orateur.jpg" width="280" alt="Session d'échanges pratiques en groupe">
 </p>
 
 * **Facilitation & Transmission de Connaissances :** Animation active d'une session d'échange technique visant à transmettre les clés de la prise de parole en public (gestion du stress, structuration du discours, techniques de captation d'audience) à d'autres pairs et orateurs en formation.
@@ -193,6 +193,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
     * La **Greffière en Chef**, pour appréhender la sacralité de la procédure, la conservation des actes et la gestion des greffes.
 * **Immersion Procédurale :** Visite guidée et observation des infrastructures judiciaires (salles d'audience, bureaux des plaidoiries) permettant de confronter les théories du droit processuel aux réalités des audiences territoriales au Bénin.
 * **Professionnalisation & Réseautage :** Renforcement de la posture professionnelle et appropriation des codes déontologiques qui régissent les relations entre les futurs praticiens et les magistrats.
+
 ---
 
 ##  Compétences clés
