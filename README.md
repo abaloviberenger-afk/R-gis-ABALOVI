@@ -27,8 +27,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Transmission de compétences, animation d'ateliers pratiques et renforcement des capacités au sein de la communauté des jeunes orateurs.*
 
 <p align="center">
-  <img src="image/regis_transmission.jpg" width="280" alt="Régis partageant ses connaissances">
-  <img src="image/regis_communaute_orateurs.jpg" width="280" alt="Session d'échanges pratiques en groupe">
+  <img src="regis_transmission.jpg" width="280" alt="Régis partageant ses connaissances">
+  <img src="regis_communaute_orateurs.jpg" width="280" alt="Session d'échanges pratiques en groupe">
 </p>
 
 * **Facilitation & Transmission de Connaissances :** Animation active d'une session d'échange technique visant à transmettre les clés de la prise de parole en public (gestion du stress, structuration du discours, techniques de captation d'audience) à d'autres pairs et orateurs en formation.
@@ -42,8 +42,9 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Compétition de haut niveau simulant des procès sur des problématiques fondamentales du droit pénal et des droits humains.*
 
 <p align="center">
-  <img src="image/regis_meilleur_plaideur.jpg" width="280" alt="Régis ABALOVI sacré Meilleur Plaideur">
-  <img src="image/regis_attestation.jpg" width="280" alt="Attestation officielle de distinction">
+  <img src="regis_meilleur_plaideur.jpg" width="280" alt="Régis ABALOVI sacré Meilleur Plaideur">
+  <img src="regis_meilleur_plaideur_1.jpg" width="280" alt="Régis ABALOVI sacré Meilleur Plaideur">
+  <img src="regis_attestation.jpg" width="280" alt="Attestation officielle de distinction">
 </p>
 
 * **Distinction Individuelle — Sacré Meilleur Plaideur du Concours :** Lauréat du **1er Prix Individuel**, récompensant l'éloquence, la force de conviction, la structuration de l'argumentation juridique et la répartie face aux objections du jury.
@@ -53,7 +54,9 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
     * *La proportionnalité des peines face à la prison à vie (réclusion criminelle à perpétuité).*
 
 <p align="center">
-  <img src="image/equipe_vice_championne.jpg" width="550" alt="L'équipe sur le podium de la finale">
+  <img src="equipe_vice_championne.jpg" width="550" alt="L'équipe sur le podium de la finale">
+  <br>
+  <img src="equipe_vice_championne_1.jpg" width="550" alt="L'équipe sur le podium de la finale">
   <br>
   <i>Consécration collective lors de la grande finale d'Oratio Principis.</i>
 </p>
@@ -75,7 +78,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
     [👉Découvrir le dossier complet, la publication de Google et la décision officielle DCC 25-147](./recours.md) 
 
 ###  2. Éducation Populaire : L'Association Théâtre Juridique
-<img src="TTT.jpg" width="250" alt="Régis ABALOVI">
+<img src="GGG.jpg" width="250" alt="Régis ABALOVI">
 
 *   **Rôle :** Coordonnateur Général *(depuis septembre 2025)*
 *   **Concept :** Tradruire la complexité du droit positif béninois en pièces théâtrales et simulations vivantes pour permettre aux populations et à la jeunesse étudiante de s'approprier et d'exercer leurs droits.
@@ -109,8 +112,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Implication active au sein d'un espace d'échange interdisciplinaire axé sur les dynamiques de plaidoyer et l'impact civique de la jeunesse.*
 
 <p align="center">
-  <img src="image/affiche_rdve.jpg" width="300" alt="Affiche Officielle de la Conférence RDVE">
-  <img src="image/regis_pleine_action.jpg" width="300" alt="Régis prenant la parole à la tribune">
+  <img src="affiche_rdve.jpg" width="300" alt="Affiche Officielle de la Conférence RDVE">
+  <img src="regis_pleine_action.jpg" width="300" alt="Régis prenant la parole à la tribune">
 </p>
 
 *   **Plaidoyer Scénique & Prise de Parole :** Intervention devant l'assemblée lors de la session plénière pour formuler et délivrer un message d'engagement citoyen structuré, illustrant l'éloquence comme levier d'action.
@@ -122,7 +125,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *   **Diplomatie associative & Networking :** Conduite d'échanges bilatéraux lors de la session de réseautage afin de tisser des partenariats et de connecter l'Association Théâtre Juridique avec d'autres dynamiques citoyennes locales.
 
 <p align="center">
-  <img src="image/photo_de_groupe_rdve.jpg" width="600" alt="Photo de groupe avec les intervenants et participants du RDVE">
+  <img src="photo_de_groupe_rdve.jpg" width="600" alt="Photo de groupe avec les intervenants et participants du RDVE">
   <br>
   <i>Synergie associative et écosystème de leaders citoyens lors de la session de clôture.</i>
 </p>
@@ -132,7 +135,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 
 <p align="center">
   <a href="LIEN_DE_TA_VIDEO_ICI" target="_blank">
-    <img src="image/reportage_codap.jpg" width="550" alt="Régis en formation CODAP - Reportage Média">
+    <img src="reportage_codap.jpg" width="550" alt="Régis en formation CODAP - Reportage Média">
     <br>
     ▼ <i>Cliquez ici pour visionner l'extrait du reportage médiatique</i> ▼
   </a>
@@ -149,8 +152,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Participation active à une plateforme multidisciplinaire mêlant leadership, innovation et réseautage stratégique à Cococodji.*
 
 <p align="center">
-  <img src="image/affiche_dm_arena.jpg" width="280" alt="Affiche Officielle DM Arena">
-  <img src="image/regis_dm_arena.jpg" width="280" alt="Régis en session d'échange - DM Arena">
+  <img src="affiche_dm_arena.jpg" width="280" alt="Affiche Officielle DM Arena">
+  <img src="regis_dm_arena.jpg" width="280" alt="Régis en session d'échange - DM Arena">
 </p>
 
 *   **Réseautage Stratégique (B2B Networking) :** Conduite d'échanges directifs avec des entrepreneurs de divers horizons, des experts sectoriels et des communicants institutionnels (notamment des profils liés à la Présidence) afin d'élargir mon écosystème professionnel.
@@ -159,7 +162,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *   **Synergie Écosystémique :** Immersion dans le volet culturel et collaboratif (révélation de talents, interactions de groupe) favorisant la cohésion et la création de liens interpersonnels durables.
 
 <p align="center">
-  <img src="image/regis_partenaires.jpg" width="450" alt="Régis devant le mur des partenaires officiels">
+  <img src="regis_partenaires.jpg" width="450" alt="Régis devant le mur des partenaires officiels">
   <br>
   <i>Présence institutionnelle et relations publiques lors de la session de clôture de DM ARENA.</i>
 </p>
@@ -168,8 +171,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Échange interactif et approfondi avec les praticiens du droit sur les mécanismes d'équité et de protection des minorités.*
 
 <p align="center">
-  <img src="image/regis_marlene_1.jpg" width="280" alt="Régis attentif lors de l'échange avec Maître Marlène">
-  <img src="image/regis_marlene_2.jpg" width="280" alt="Session de travail et de prise de notes">
+  <img src="regis_marlene_1.jpg" width="280" alt="Régis attentif lors de l'échange avec Maître Marlène">
+  <img src="regis_marlene_2.jpg" width="280" alt="Session de travail et de prise de notes">
 </p>
 
 * **Dialogue Clinique avec les Praticiens :** Participation active à une journée d'échanges privilégiée aux côtés de **Maître Marlène**, Avocate au Barreau, portant sur les implications juridiques, éthiques et constitutionnelles de la discrimination positive.
@@ -180,8 +183,8 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Compréhension terrain des rouages de la justice républicaine et dialogues cliniques avec les chefs de juridiction.*
 
 <p align="center">
-  <img src="image/tpi_ouidah_1.jpg" width="280" alt="Régis devant le Tribunal de Ouidah">
-  <img src="image/tpi_ouidah_2.jpg" width="280" alt="Session d'immersion au sein du tribunal">
+  <img src="tpi_ouidah_1.jpg" width="280" alt="Régis devant le Tribunal de Ouidah">
+  <img src="tpi_ouidah_2.jpg" width="280" alt="Session d'immersion au sein du tribunal">
 </p>
 
 * **Dialogue Stratégique avec les Magistrats et Acteurs Clés :** Participation active à une série d'échanges privilégiés avec les plus hautes autorités de la juridiction :
