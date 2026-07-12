@@ -50,8 +50,7 @@ Piloter une association de vulgarisation juridique demande une présence constan
 ## 🎬 Extrait Vidéo des Sensibilisations
 Pour mesurer l'impact de nos simulations juridiques et l'interaction avec le public :
 
-> 🔗 [▶️ Regarder l'extrait vidéo de notre dernière sensibilisation sur scène](www.facebook.com/61578181748603/videos/1187539216650055/)
-> *(Cliquez sur le lien pour ouvrir la captation vidéo)*
+> 📺 **Média disponible :** [▶️ Visionner la représentation théâtrale sur Facebook](https://www.facebook.com/61578181748603/videos/1187539216650055/)
 
 ---
 
