@@ -134,7 +134,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 
 <p align="center">
   <a href="https://www.facebook.com/share/v/18qEiUQr5Z/" target="_blank">
-    <img src="reportage_codap.jpg" width="550" alt="Régis en formation CODAP - Reportage Média">
+    <img src="reportage_codap.jpg" width="550" alt="Régis en formation CODA - Reportage Média">
     <br>
     ▼ <i>Cliquez ici pour visionner l'extrait du reportage médiatique</i> ▼
   </a>
