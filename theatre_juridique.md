@@ -29,7 +29,7 @@ Depuis ma nomination en septembre 2025, je pilote la structuration opérationnel
 Mon engagement au sein de ce projet est intimement lié à mon parcours de plaideur, couronné par le **1er Prix** du prestigieux concours d'éloquence et de plaidoirie *Oratio Principis*.
 
 <p align="center">
-  <img src="image/theatre_juridique.jpg" width="450" alt="Régis en robe de plaideur lors du concours">
+  <img src="theatre_juridique.jpg" width="450" alt="Régis en robe de plaideur lors du concours">
   <br>
   <i>L'éloquence et la maîtrise scénique : piliers de notre méthode de sensibilisation populaire.</i>
 </p>
@@ -40,7 +40,7 @@ Mon engagement au sein de ce projet est intimement lié à mon parcours de plaid
 Piloter une association de vulgarisation juridique demande une présence constante sur le terrain et une coordination rigoureuse des équipes.
 
 <p align="center">
-  <img src="image/leadership_action.jpg" width="450" alt="Régis en pleine séance de coordination">
+  <img src="leadership_action.jpg" width="450" alt="Régis en pleine séance de coordination">
   <br>
   <i>Réunion de cadrage et gestion des projets d'éducation populaire.</i>
 </p>
@@ -50,7 +50,7 @@ Piloter une association de vulgarisation juridique demande une présence constan
 ## 🎬 Extrait Vidéo des Sensibilisations
 Pour mesurer l'impact de nos simulations juridiques et l'interaction avec le public :
 
-> 🔗 [▶️ Regarder l'extrait vidéo de notre dernière sensibilisation sur scène](LIEN_DE_TA_VIDEO_ICI)
+> 🔗 [▶️ Regarder l'extrait vidéo de notre dernière sensibilisation sur scène](www.facebook.com/61578181748603/videos/1187539216650055/)
 > *(Cliquez sur le lien pour ouvrir la captation vidéo)*
 
 ---
