@@ -133,7 +133,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *Immersion précoce dans les mécanismes de protection des droits fondamentaux et l'ingénierie de projets citoyens.*
 
 <p align="center">
-  <a href="LIEN_DE_TA_VIDEO_ICI" target="_blank">
+  <a href="www.facebook.com/share/v/18qEiUQr5Z/" target="_blank">
     <img src="reportage_codap.jpg" width="550" alt="Régis en formation CODAP - Reportage Média">
     <br>
     ▼ <i>Cliquez ici pour visionner l'extrait du reportage médiatique</i> ▼
