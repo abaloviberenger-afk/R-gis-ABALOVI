@@ -86,8 +86,7 @@ En tant que juriste en formation, lauréat de concours de plaidoirie et leader a
 *   *   **Preuves et analyse intégrale:**
     [👉 Découvrir la galerie et les coulisses du projet](./theatre_juridique.md) 
 
-  
-  ###  3. Droit & Culture : Projet « La Robe Géante »
+###  3. Droit & Culture : Projet « La Robe Géante »
 *   **Rôle :** Conseils, conformité et encadrement des services juridiques.
 *   **Description :** Structuration légale et sécurisation des contrats pour une exposition de mode d'envergure nationale visant à promouvoir les artisans et le stylisme béninois.
 
